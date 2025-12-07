@@ -1,0 +1,13 @@
+﻿Model,Target,Best_n_neighbors,Best_weights,n_neighbors,weights
+KNN,call_count,10.0,distance,,
+,구급_교통사고,,,10.0,distance
+,구급기타,,,10.0,distance
+,구조_교통사고,,,10.0,distance
+,대민지원,,,10.0,distance
+,부상,,,10.0,distance
+,산악사고,,,10.0,distance
+,상황출동,,,10.0,distance
+,수난사고,,,10.0,distance
+,업무운행,,,10.0,distance
+,자연재해,,,10.0,distance
+,지원출동(풍수해),,,10.0,distance
